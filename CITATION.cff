@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "chimneyml: multi-attribute machine-learning screening of gas chimneys in 2D seismic data"
+message: "If you use this software, please cite the associated article."
+authors:
+  - family-names: Ismail
+    given-names: Amir
+version: 1.0.0
+license: MIT
+repository-code: "https://github.com/Amirismail1985/Multi-Attribute-Machine-Learning"
